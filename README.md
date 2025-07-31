@@ -1,4 +1,4 @@
 # myproject
-This is test repo
-<h1>Hello !</h1>
-<h2>this repo is created by eya ben gharssa.</h2>
+<h1>This is test repo</h1>
+<h2>Hello !
+this repo is created by eya ben gharssa.</h2>
